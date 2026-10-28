@@ -17,7 +17,7 @@ SECCIÓN 1 - EJERCICIO 3
 - Para este ejercicio si necesité la ayuda de revisar un algoritmo para solucionar el problema, me basé en un codigo realizado por un desarrollador de la india mediante un blog publicado por el (Kabir Sharma) y lo adapté a los requisitos del ejercicio.
 
 SECCIÓN 1 - EJERCICIO 4
-- Al leer el problema investigué cómo se abordaba la búsqueda de combinaciones que sumaran un valor objetivo y encontré que comúnmente se soluciona con backtracking, pero la verdad no entendí muy bien esos conceptos e intenté primero ordenar los numeros de menor a mayor para después intentar hacer los cálculos pero me quedé sin ideas.
+- Al leer el problema investigué cómo se abordaba la búsqueda de combinaciones que sumaran un valor objetivo y encontré que comúnmente se soluciona con backtracking, pero la verdad no entendí muy bien esos conceptos e intenté con otra alternativa, utilizando Set para almacenar las diferentes sumas que se hayan podido generar y si encuentra el objetivo devuelve TRUE sino termina de recorrer el arreglo
 
 SECCIÓN 1 - EJERCICIO 5
 - Para el ejercicio 5 solo tuve que consultar cada uno de los conceptos básicos y la sintaxis correcta de las consultas sql ya que no los recordaba del todo, después cree las tablas utilizando postgresql e hice pruebas para validar la información y al final poder obtener la consulta completa.
